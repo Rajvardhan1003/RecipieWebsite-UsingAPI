@@ -16,12 +16,13 @@ If the user types a dish name that is not available in the database, the app sho
 👉 “Error in Fetching Recipes…”
 <img width="1913" height="478" alt="Screenshot 2025-08-17 200405" src="https://github.com/user-attachments/assets/c7af01a2-612d-484a-8361-f8fa4d0b0c84" />
 
-3. When a Valid Meal is Entered
-4. 
-If a correct dish name is entered, the app fetches recipes from TheMealDB API and displays:
+3. 
+If a correct dish name is entered, it fetches recipes from TheMealDB API and displays:
 Meal Image
 Meal Name
 Cuisine Type (e.g., Italian, British, etc.)
 Meal Category (e.g., Seafood, Dessert, etc.)
 A View Recipe button to get full cooking instructions
 <img width="1913" height="969" alt="Screenshot 2025-08-17 200334" src="https://github.com/user-attachments/assets/b43b72ac-67aa-48ae-949b-90665137562f" />
+4. After clicking on the view recipe button , everything which is required to prepare the recipe/dish is displayed and the process to do the dish is clearly visible step by step and all the ingredients are listed  
+<img width="1911" height="952" alt="Screenshot 2025-08-17 201448" src="https://github.com/user-attachments/assets/72ffab2a-dc62-478d-9250-0a190f989ec1" />
